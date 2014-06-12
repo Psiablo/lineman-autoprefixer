@@ -1,0 +1,43 @@
+{
+  "name": "lineman-autoprefixer",
+  "title": "Autoprefixer plugin for Lineman, using grunt-autoprefixer",
+  "description": "Parse CSS and add vendor-prefixed CSS properties, using the Can I Use database.",
+  "keywords": [
+    "lineman",
+    "linemanplugin",
+    "grunt",
+    "autoprefixer"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/psiablo/lineman-autoprefixer",
+  "author": {
+    "name": "Eric Taylor",
+    "email": "eric@daxos.com"
+  },
+  "contributors": [
+
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psiablo/lineman-autoprefixer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/psiablo/lineman-autoprefixer/issues"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "grunt-autoprefixer": "~0.7.5"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "peerDependencies": {
+    "lineman": ">= 0.27.0"
+  },
+  "licenses": [
+    {
+      "type": "",
+      "url": "http://github.com/psiablo/lineman-autoprefixer/raw/master/LICENSE"
+    }
+  ]
+}
