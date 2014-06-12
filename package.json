@@ -36,7 +36,7 @@
   },
   "licenses": [
     {
-      "type": "",
+      "type": "MIT",
       "url": "http://github.com/psiablo/lineman-autoprefixer/raw/master/LICENSE"
     }
   ]
